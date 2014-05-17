@@ -1,0 +1,11 @@
+{
+    "require": {
+		"slim/slim": "2.*",
+		"rmccue/requests": ">=1.0",
+		"j4mie/idiorm": "1.4.1",
+        "twig/twig": "1.*",
+		"slim/views": "0.1.*",
+		"makotokw/twient": "dev-master",
+		"ircmaxell/password-compat": "1.0.3"		
+    }
+}
