@@ -1,5 +1,4 @@
 # Bubblechirp
-----
 
 A WiFi bubble machine powered by Tweets. Uses the [BERG Cloud V2 API](bergcloud.com/devcenter/api/v2). You don't need any special BERG hardware for this, just a regular Arduino Mega and WiFi shield. This is a weekend hack, there will be bugs. Pull requests welcome.
 
