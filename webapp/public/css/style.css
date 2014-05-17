@@ -1,0 +1,53 @@
+.button,
+.button:hover {
+	background-color: #3A73D1;
+}
+
+a,
+a:hover{
+	color: #3A73D1;
+}
+
+.textalign-right {
+	text-align: right;
+}
+
+.body {
+	padding: 20px;
+	padding-top: 40px;
+}
+
+footer {
+	border-top: 1px solid #ddd;
+	padding-top: 30px;
+}
+
+header {
+	background: #4181EB;
+	padding-left: 20px;
+}
+
+header h1 a,
+header h1 a:hover,
+.user a,
+.user a:hover {
+	color: white;
+}
+
+.user a {
+	text-decoration: underline;
+}
+
+.user {
+	background: 3A73D1;
+	color: white;
+	padding: 10px;
+}
+
+.user p {
+	margin-bottom: 0;
+}
+
+.button {
+	border-radius: 5px;
+}
