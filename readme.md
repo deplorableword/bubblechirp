@@ -8,6 +8,7 @@ A WiFi bubble machine powered by Tweets. Uses the [BERG Cloud V2 API](bergcloud.
 - [Arduino Mega](http://shop.pimoroni.com/products/arduino-mega2560)
 - [Adafruit CC3000 WiFi Sheild](http://shop.pimoroni.com/products/adafruit-cc3000-wifi-shield-with-onboard-ceramic-antenna)
 - [Relay Module](http://www.amazon.co.uk/2-Channel-Module-Shield-Arduino-Electronic/dp/B009P04ZKC/ref=sr_1_1?ie=UTF8&qid=1400332193&sr=8-1&keywords=relay&tag=thedeplorable-21)
+- [Googly Eyes](http://www.amazon.co.uk/Black-White-Wiggly-Wobbly-Googly/dp/B002R5J2C8)
 - A server or local computer which can run PHP / MySQL
 
 ## How it works
