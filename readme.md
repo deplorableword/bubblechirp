@@ -2,6 +2,8 @@
 
 A WiFi bubble machine powered by Tweets. Uses the [BERG Cloud V2 API](bergcloud.com/devcenter/api/v2). You don't need any special BERG hardware for this, just a regular Arduino Mega and WiFi shield. This is a weekend hack, there will be bugs. Pull requests welcome.
 
+![bubbletweet](http://static.squarespace.com/static/51c42123e4b006e9ab964091/t/5372464ae4b0f1679c04ebfc/1399998059801/?format=500w)
+
 # Hardware list
 
 - Bubble Machine ([this one is easy to hack](http://www.amazon.co.uk/Billion-Bubbles-Kids-Bubble-Generator/dp/B000OOQ3MG&tag=thedeplorable-21))
